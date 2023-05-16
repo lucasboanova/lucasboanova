@@ -1,7 +1,7 @@
 ### Olá, bem vindo ao meu perfil!!!
 
 - 👔 Em busca de oportunidade na área;
-- 📚 Estudando Java;
+- 📚 Estudando;
 - 😄 Ele/Dele
 <div>
   <a href="https://github.com/lucasboanova">

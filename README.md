@@ -1,10 +1,20 @@
-### Olá, bem vindo ao meu perfil!!!
+# 👋 Olá! Eu sou Lucas
 
-- 💼 Desenvolvedor JR Python;
-- 😄 Migrando para Java;
-<div>
-  <a href="https://github.com/lucasboanova">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasboanova&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true">
-  <img height=160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasboanova&amp;layout=compact&amp;langs_count=20&amp;theme=dracula">
-</a></div>
+Sou um desenvolvedor de software apaixonado por criar soluções eficientes e escaláveis. Minha jornada começou com Python e, recentemente, estou migrando para o desenvolvimento backend com Java. Abaixo você pode conferir um pouco mais sobre minhas experiências e habilidades.
 
+## 🚀 Tecnologias e Ferramentas
+
+- **Linguagens**: Python, Java (Backend)
+- **Frameworks**: Django, Flask (Python); Spring Boot (Java)
+- **Banco de Dados**: SQLOracle, PostgreSQL e MySQL
+- **Ferramentas**: Git, Docker
+- **Metodologias**: Agile (Scrum/Kanban)
+
+## 🌱 Em Migração
+
+Atualmente, estou aprofundando meus conhecimentos em **Java Backend** e em frameworks como **Spring Boot**, buscando trazer a mesma eficiência e qualidade que já entrego em **Python** para o mundo **Java**.
+
+## 📫 Como me encontrar
+
+- **LinkedIn**: [Lucas Boa Nova](https://www.linkedin.com/in/lucasboanova/)
+- **E-mail**: lucasboanova99@gmail.com

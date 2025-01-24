@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Lucas
 
-Sou um desenvolvedor de software apaixonado por criar soluções eficientes e escaláveis. Minha jornada começou com Python e, recentemente, estou migrando para o desenvolvimento backend com Java. Abaixo você pode conferir um pouco mais sobre minhas experiências e habilidades.
+Sou um desenvolvedor de software apaixonado por criar soluções eficientes e escaláveis. Abaixo você pode conferir um pouco mais sobre minhas experiências e habilidades.
 
 ## 🚀 Tecnologias e Ferramentas
 

@@ -10,10 +10,6 @@ Sou um desenvolvedor de software apaixonado por criar soluções eficientes e es
 - **Ferramentas**: Git, Docker
 - **Metodologias**: Agile (Scrum/Kanban)
 
-## 🌱 Em Migração
-
-Atualmente, estou aprofundando meus conhecimentos em **Java Backend** e em frameworks como **Spring Boot**, buscando trazer a mesma eficiência e qualidade que já entrego em **Python** para o mundo **Java**.
-
 ## 📫 Como me encontrar
 
 - **LinkedIn**: [Lucas Boa Nova](https://www.linkedin.com/in/lucasboanova/)
